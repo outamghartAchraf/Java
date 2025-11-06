@@ -6,7 +6,7 @@ public class Main {
         // MAD LIBS GAME
 
         Scanner scanner = new Scanner(System.in);
-
+        
         String adjective1;
         String noun1;
         String adjective2;
